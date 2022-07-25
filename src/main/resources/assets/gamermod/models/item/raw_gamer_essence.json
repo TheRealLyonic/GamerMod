@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gamermod:item/raw_gamer_essence"
+  }
+}
