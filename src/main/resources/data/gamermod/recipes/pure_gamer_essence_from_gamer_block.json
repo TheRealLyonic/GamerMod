@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gamermod:gamer_block"
+    }
+  ],
+  "result": {
+    "item": "gamermod:pure_gamer_essence",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "gamermod:gamer_ore",
+    "gamermod:deepslate_gamer_ore",
+    "gamermod:gamer_block"
+  ]
+}

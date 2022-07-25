@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "pure_gamer_essence",
+  "ingredient": {
+    "item": "gamermod:raw_gamer_essence"
+  },
+  "result": "gamermod:pure_gamer_essence"
+}
