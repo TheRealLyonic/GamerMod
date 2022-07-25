@@ -2,5 +2,9 @@
   "item.gamermod.raw_gamer_essence": "Raw Gamer Essence",
   "item.gamermod.pure_gamer_essence": "Pure Gamer Essence",
 
+  "block.gamermod.gamer_block": "Gamer Block",
+  "block.gamermod.gamer_ore": "Gamer Ore",
+  "block.gamermod.deepslate_gamer_ore": "Deepslate Gamer Ore",
+
   "itemGroup.gamer_stuff_tab": "Gamer Stuff"
 }
