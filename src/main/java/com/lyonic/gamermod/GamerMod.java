@@ -3,6 +3,8 @@ package com.lyonic.gamermod;
 import com.lyonic.gamermod.block.ModBlocks;
 import com.lyonic.gamermod.item.ModItems;
 import com.mojang.logging.LogUtils;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

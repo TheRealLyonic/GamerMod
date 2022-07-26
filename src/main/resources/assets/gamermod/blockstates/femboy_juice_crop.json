@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "age=0": {"model": "gamermod:block/femboy_juice_stage0"},
+    "age=1": {"model": "gamermod:block/femboy_juice_stage1"},
+    "age=2": {"model": "gamermod:block/femboy_juice_stage2"},
+    "age=3": {"model": "gamermod:block/femboy_juice_stage3"},
+    "age=4": {"model": "gamermod:block/femboy_juice_stage4"},
+    "age=5": {"model": "gamermod:block/femboy_juice_stage5"},
+    "age=6": {"model": "gamermod:block/femboy_juice_stage6"}
+  }
+}

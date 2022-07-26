@@ -1,10 +1,13 @@
 {
   "item.gamermod.raw_gamer_essence": "Raw Gamer Essence",
   "item.gamermod.pure_gamer_essence": "Pure Gamer Essence",
+  "item.gamermod.femboy_juice": "Femboy Juice",
+  "item.gamermod.femboy_juice_seeds": "Femboy Juice Seeds",
 
   "block.gamermod.gamer_block": "Gamer Block",
   "block.gamermod.gamer_ore": "Gamer Ore",
   "block.gamermod.deepslate_gamer_ore": "Deepslate Gamer Ore",
+  "block.gamermod.femboy_juice_crop": "Femboy Juice Crop",
 
   "itemGroup.gamer_stuff_tab": "Gamer Stuff"
 }
